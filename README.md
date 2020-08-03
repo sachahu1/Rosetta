@@ -1,5 +1,7 @@
 Rosetta Quality Estimation
+
 This project was developped by Ludo Mitchener (ludomitch), Alvaro Part (alvaroprat97), and Sacha Hu (me)
+
 ## Requirements
 
 This project requires Python v3.6.x and pip3 to run.
