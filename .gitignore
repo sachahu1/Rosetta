@@ -1,0 +1,7 @@
+en-de
+/**/.ipynb_checkpoints
+/**/*.pyc
+/logs/
+/**/*.torch
+/**/*.ipynb
+/saved_features/
